@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int stcost, varcost, margin;
+	cin >> stcost >> varcost >> margin; //고정비용 가변비용 이익
+	int y;
+	y = 0;
+	if (varcost >= margin) {
+		cout << -1;
+	}
+	else {
+		while (stcost + varcost * y > margin * y){
+			y++;
+		}
+		cout << y+1;
+	}
+}
