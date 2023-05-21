@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+  소스.cpp
+  코드를 생성하고 있습니다...
+D:\이미지\연습과제\hwokr329_5\hwokr329_5\Stack.cpp(41): warning C4715: 'Stack::isFull': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\이미지\연습과제\hwokr329_5\hwokr329_5\Stack.cpp(47): warning C4715: 'Stack::isEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  hwokr329_5.vcxproj -> D:\이미지\연습과제\hwokr329_5\Debug\hwokr329_5.exe

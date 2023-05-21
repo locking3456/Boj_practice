@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\알골자습\programmerscheck2\programmerscheck2\소스.cpp(16,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\programmerscheck2\programmerscheck2\소스.cpp(19,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\programmerscheck2\programmerscheck2\소스.cpp(39,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  programmerscheck2.vcxproj -> D:\알골자습\programmerscheck2\Debug\programmerscheck2.exe

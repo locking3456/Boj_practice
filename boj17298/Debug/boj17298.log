@@ -1,0 +1,4 @@
+﻿  소스.cpp
+E:\알골자습\boj17298\소스.cpp(27,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\알골자습\boj17298\소스.cpp(5,7): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+  boj17298.vcxproj -> E:\알골자습\boj17298\Debug\boj17298.exe

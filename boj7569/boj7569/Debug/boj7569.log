@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\알골자습\boj7569\boj7569\소스.cpp(28,30): warning C4101: 'temp1' :참조되지 않은 지역 변수입니다.
+  boj7569.vcxproj -> D:\알골자습\boj7569\Debug\boj7569.exe

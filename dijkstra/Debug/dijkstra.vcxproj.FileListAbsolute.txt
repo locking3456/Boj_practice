@@ -1,0 +1,2 @@
+E:\알골자습\dijkstra\Debug\dijkstra.exe
+E:\알골자습\dijkstra\Debug\dijkstra.pdb

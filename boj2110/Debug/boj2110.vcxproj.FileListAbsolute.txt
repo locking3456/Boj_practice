@@ -1,0 +1,2 @@
+E:\알골자습\boj2110\Debug\boj2110.exe
+E:\알골자습\boj2110\Debug\boj2110.pdb

@@ -1,0 +1,2 @@
+E:\알골자습\baek1931\Debug\baek1931.exe
+E:\알골자습\baek1931\Debug\baek1931.pdb

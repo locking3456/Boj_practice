@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\이미지\연습과제\baek9012\baek9012\소스.cpp(15,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  baek9012.vcxproj -> D:\이미지\연습과제\baek9012\Debug\baek9012.exe

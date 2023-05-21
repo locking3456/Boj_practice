@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\알골자습\boj1260\boj1260\소스.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\boj1260\boj1260\소스.cpp(50,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\boj1260\boj1260\소스.cpp(73,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  boj1260.vcxproj -> D:\알골자습\boj1260\Debug\boj1260.exe
