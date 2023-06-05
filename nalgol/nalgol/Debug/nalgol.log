@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\알골자습\Boj_practice\nalgol\nalgol\소스.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\Boj_practice\nalgol\nalgol\소스.cpp(32,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\Boj_practice\nalgol\nalgol\소스.cpp(50,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  nalgol.vcxproj -> D:\알골자습\Boj_practice\nalgol\Debug\nalgol.exe
