@@ -1,0 +1,7 @@
+﻿  소스.cpp
+D:\알골자습\Boj_practice\boj15686\boj15686\소스.cpp(11,21): warning C4309: '초기화 중': 상수 값이 잘립니다.
+D:\알골자습\Boj_practice\boj15686\boj15686\소스.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\Boj_practice\boj15686\boj15686\소스.cpp(15,21): warning C4309: '초기화 중': 상수 값이 잘립니다.
+D:\알골자습\Boj_practice\boj15686\boj15686\소스.cpp(16,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\알골자습\Boj_practice\boj15686\boj15686\소스.cpp(33,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  boj15686.vcxproj -> D:\알골자습\Boj_practice\boj15686\Debug\boj15686.exe

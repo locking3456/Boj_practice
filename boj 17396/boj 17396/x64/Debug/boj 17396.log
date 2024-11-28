@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\Study\알골자습\Boj_practice\boj 17396\boj 17396\main.cpp(18,12): error C2146: 구문 오류: ';'이(가) 'toCost' 식별자 앞에 없습니다.
+D:\Study\알골자습\Boj_practice\boj 17396\boj 17396\main.cpp(18,38): warning C4244: '=': 'const _Ty1'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\Study\알골자습\Boj_practice\boj 17396\boj 17396\main.cpp(25,19): warning C4244: '초기화 중': '_Ty2'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\Study\알골자습\Boj_practice\boj 17396\boj 17396\main.cpp(48,23): warning C4307: '*': 부호 있는 정수 계열 상수 오버플로입니다.
+D:\Study\알골자습\Boj_practice\boj 17396\boj 17396\main.cpp(50,26): warning C4307: '*': 부호 있는 정수 계열 상수 오버플로입니다.

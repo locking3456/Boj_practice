@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\\uC54C\uACE8\uC790\uC2B5\\Boj_practice\\boj1062\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C444E56-ADB5-4653-BB36-C3104BB66E5F}|boj1062\\boj1062.vcxproj|D:\\Study\\\uC54C\uACE8\uC790\uC2B5\\Boj_practice\\boj1062\\boj1062\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C444E56-ADB5-4653-BB36-C3104BB66E5F}|boj1062\\boj1062.vcxproj|solutionrelative:boj1062\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C444E56-ADB5-4653-BB36-C3104BB66E5F}|boj1062\\boj1062.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDLIB.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdlib.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAkwKUBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T12:41:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Study\\\uC54C\uACE8\uC790\uC2B5\\Boj_practice\\boj1062\\boj1062\\main.cpp",
+              "RelativeDocumentMoniker": "boj1062\\main.cpp",
+              "ToolTip": "D:\\Study\\\uC54C\uACE8\uC790\uC2B5\\Boj_practice\\boj1062\\boj1062\\main.cpp",
+              "RelativeToolTip": "boj1062\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:20:17.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

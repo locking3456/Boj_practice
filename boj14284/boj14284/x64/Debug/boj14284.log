@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Study\알골자습\Boj_practice\boj14284\boj14284\main.cpp(24,17): warning C4244: '초기화 중': '_Ty2'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\Study\알골자습\Boj_practice\boj14284\boj14284\main.cpp(26,37): warning C4244: '=': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  boj14284.vcxproj -> D:\Study\알골자습\Boj_practice\boj14284\x64\Debug\boj14284.exe

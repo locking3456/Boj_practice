@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\알골자습\Boj_practice\boj10026\boj10026\소스.cpp(17,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\알골자습\Boj_practice\boj10026\boj10026\소스.cpp(57,22): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  boj10026.vcxproj -> D:\알골자습\Boj_practice\boj10026\x64\Debug\boj10026.exe
